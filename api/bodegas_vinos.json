@@ -1,0 +1,471 @@
+[
+            {
+            "name":"CASILLERO DEL DIABLO CABERNET",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"Disfruta una experiencia inolvidable con el exclusivo Casillero Del Diablo Cabernet Sauvignon. Este vino tinto es elaborado con uva cabernet sauvignon y, luego del proceso de fermentación, se deja en contacto con roble durante 6 meses. En nariz se perciben delicados aromas piracínicos que recuerdan a pimientos y notas a café y chocolate. ¡Un deleite para los paladares más exigentes!",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Sauvignon",
+                "composicion_varietal":"100% Cabernet Sauvignon",
+                "añejamiento":"6 meses en barrica de roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+        },
+        {
+            "name":"CASILLERO DEL DIABLO MALBEC",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"Disfruta una copa de Casillero del Diablo Malbec, un vino tinto de Viña Concha y Toro elaborado con las mejores uvas de Mendoza. ¡Un vino único que hará que cada copa sea una experiencia inolvidable!",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"100% Malbec",
+                "añejamiento":"6 meses de guarda en roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+        },
+        {
+            "name":"CASILLERO DEL DIABLO CHARDONNAY",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"Disfruta de la excelencia del Casillero del Diablo Chardonnay, un vino blanco de uvas originarias de Valle de Uco, Mendoza. Su delicioso sabor a frutas tropicales y su boca untuosa con buena acidez y frescor mineral lo convierten en el mejor compañero para maridar platos con frutos del mar o pastas con salsas blancas. ¡Experimenta el placer de un vino de lujo!",
+                "categoria":"Blanco",
+                "varietal":"Chardonnay",
+                "composicion_varietal":"", 
+                "añejamiento":"6 meses en barricas de roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"CASILLERO DEL DIABLO RED BLEND",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"Disfruta de la excelencia del Casillero del Diablo Chardonnay, un vino blanco de uvas originarias de Valle de Uco, Mendoza. Su delicioso sabor a frutas tropicales y su boca untuosa con buena acidez y frescor mineral lo convierten en el mejor compañero para maridar platos con frutos del mar o pastas con salsas blancas. ¡Experimenta el placer de un vino de lujo!",
+                "categoria":"Blanco",
+                "varietal":"Chardonnay",
+                "composicion_varietal":"", 
+                "añejamiento":"6 meses en barricas de roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"TRIBU MALBEC",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"6 meses en barricas de roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"TRIBU CABERNET SAUVIGNON",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Sauvignon",
+                "composicion_varietal":"85% Cabernet Sauvignon | 15% Merlot", 
+                "añejamiento":"3 meses de roble francés al 30% del corte",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"16 °C - 18 °C",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"TRIBU BLANCO DULCE",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"",
+                "categoria":"Blanco",
+                "varietal":"Sauvignon Blanc",
+                "composicion_varietal":"50% Sauvignon Blanc | 50% Torrontés", 
+                "añejamiento":"Sin paso por barrica",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"TRIVENTO GOLDEN RESERVE MALBEC",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"12 meses 95% en barricas de roble francés y 5% envejecido en foudres de roble francés",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"TRIVENTO GOLDEN RESERVE CABERNET SAUVIGNON",
+            "bodega":{
+                "name":"TRIVENTO",
+                "image":"",
+                 "descripcion_bodega": "Filial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a la Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030"
+            },
+                "imagen":"",
+                "descripcion":"",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"100% Cabernet Sauvignon", 
+                "añejamiento":"12 meses 70% en barricas de roble francés y 30% en foudres de roble francés. 12 meses en botella",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            },
+
+          {
+            "name":"SAINT FELICIEN MALBEC",
+            "bodega":{
+               "name": "Catena Zapata",
+               "image":"",
+               "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+        },
+                "imagen":"",
+                "descripcion":"Saint Felicien Malbec es un vino elegante y complejo, de color violeta oscuro y profundo, típico del Malbec argentino. En nariz es intenso y concentrado; presenta aromas de moras maduras con ligeras notas de vainilla, tabaco y licor. En boca, de impacto dulce y gran complejidad, es untuoso, con taninos suaves y redondos característicos del viñedo “Angélica”, en Lunlunta",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"12 meses en roble francés y americano",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"SAINT FELICIEN CABERNET SAUVIGNON",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Saint Felicien Cabernet Sauvignon es un vino elegante y complejo, de color rojo rubí profundo. Se perciben en este vino aromas a frutas rojas, como cerezas y ciruelas maduras, junto a fragancias especiadas de pimienta negra y suaves notas de eucaliptus. En boca resulta un vino complejo, de buen cuerpo y estructura, con taninos maduros y sedosos. En el final de boca aparecen delicados sabores a tostado y vainilla.",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Sauvignon",
+                "composicion_varietal":"100% Cabernet Sauvignon", 
+                "añejamiento":"12 meses en roble francés y americano",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+        },
+        {
+            "name":"SAINT FELICIEN CABERNET FRANC",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Saint Felicien Cabernet Franc es un vino elegante y complejo, de color rojo rubí profundo. Sus aromas recuerdan a frutas rojas, como cassis y grosellas, suavemente entrelazadas con pimienta negra y clavo de olor. En boca es un vino complejo, de excelente estructura, con taninos suaves y aterciopelados.",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Franc",
+                "composicion_varietal":"100% Cabernet Franc", 
+                "añejamiento":"16 meses en 90% roble francés y 10% roble americano",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+        },
+        {
+            "name":"SAINT FELICIEN CHARDONAY ROBLE",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Saint Felicien Chardonnay en Roble refleja características propias de la zona que le da origen. Con días soleados y cálidos, y noches frescas, las uvas Chardonnay adquieren una madurez plena y bien balanceada. Su color es amarillo oro con reflejos verdosos acerados. De gran complejidad y elegancia, en nariz se presenta concentrado e intenso, con aromas de frutas tropicales maduras, ananá y durazno blanco. En boca, de impacto dulce y untuoso, muy bien balanceado por la acidez, se perciben sabores a frutas maduras y ligeras notas de vainilla y tostado, que le brindan un excelente y prolongado final.",
+                "categoria":"Blanco",
+                "varietal":"Cabernet Franc",
+                "composicion_varietal":"100% Chardonnay", 
+                "añejamiento":"9 meses en roble francés.",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"NICOLAS CATENA ZAPATA",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Con la cosecha inaugural 1997, el Nicolás Catena Zapata se convirtió en el primer cuvée de lujo de Argentina que se exportó al mundo entero. Este vino recrea el 'Corte Original de Burdeos', cuando durante los siglos XVIII y XIX, el Malbec predominaba sobre el Merlot y estaba en pie de igualdad con el Cabernet Sauvignon, en la zona del Médoc. Las selecciones masales pre-filoxéricas de Malbec y Cabernet Sauvignon, de vides sin injertar, dan lugar a este vino, que nos transporta al pasado desde los viñedos de montaña de Mendoza, Argentina.",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Sauvignon",
+                "composicion_varietal":"54% Cabernet Sauvignon, 25% Cabernet franc, 21% Malbec", 
+                "añejamiento":"",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"NICASIA VINEY CABERNET FRANC",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Se perciben en este vino elegantes notas herbáceas y de anís aportadas por el Cabernet Franc, junto a vivaces frutos negros y especias conferidos por el Merlot y el Petit Verdot. El paso por roble incrementa aún más la complejidad de este vino, otorgando delicados toques ahumados y de tostado. La sólida estructura de este vino permite acompañarlo con carnes rojas, rissotos y platos elaborados.",
+                "categoria":"Tinto",
+                "varietal":"Cabernet Franc",
+                "composicion_varietal":"90 % Cabernet Franc, 7 % Merlot, 3 % Petit Verdot", 
+                "añejamiento":"12 meses en roble francés (30% nuevo)",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+        {
+            "name":"NICASIA VINEY MALBEC RED",
+            "bodega":{
+                "name": "Catena Zapata",
+                "image":"",
+                "descripcion_bodega": " “LA MEJOR BODEGA DEL MUNDO EN EL 2023” Fundada en 1902 en Mendoza, Argentina, Bodega Catena Zapata es una renombrada y distinguida bodega vinícola reconocida a nivel internacional. Con una historia que abarca más de un siglo, la bodega ha sido pionera en la producción de vinos de alta calidad en la región de los Andes, aprovechando las condiciones únicas del terroir para crear vinos excepcionales. Ubicada en la región de Luján de Cuyo, en la provincia de Mendoza, Bodega Catena Zapata se encuentra en la base de la majestuosa cordillera de los Andes. Esta ubicación privilegiada proporciona un entorno ideal para cultivar variedades de uva de forma excepcional, como el emblemático Malbec. Bodega Catena Zapata se ha ganado una reputación sólida por su compromiso con la producción de vinos de la más alta calidad, que capturan la esencia del terruño y reflejan la pasión y dedicación de generaciones de viticultores y enólogos. Su enfoque en la excelencia, la tradición y la innovación continúa marcando un hito en la industria del vino a nivel global."
+         },
+                "imagen":"",
+                "descripcion":"Se perciben en este vino intensos y dulces sabores a ciruelas y moras maduras aportados por el Malbec, junto a sutiles notas especiadas conferidos por el Cabernet Sauvignon y el Petit Verdot. El paso por roble incrementa aún más la complejidad de este vino, otorgando ligeras notas de vanilla y café. La particular voluptuosidad y dulzor de este vino permiten acompañarlo con carré de cerdo a la miel, tagine de cordero y ciruelas o lomo a la naranja.",
+                "categoria":"Tinto",
+                "varietal":"Malbec",
+                "composicion_varietal":"90% Malbec, 6% Cabernet Sauvignon, 4% Petit Verdot", 
+                "añejamiento":"12 meses en roble francés (100% nuevo)",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":""
+            
+        },
+
+        { "name":"TRIVENTO MAXIMUM RED BLEND",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos. Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo. La compañía posee 1650 hetáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Color Rojo granate oscuro con Aroma Fruta negra madura que recuerda a la mora como así también aromas especiados en Boca El contacto con el roble proporciona una complejidad aromática que revela notas de tabaco, vainilla y canela. Estructurado con taninos persistentes..",
+                "categoria":"tinto",
+                "varietal":"blend",
+                "composicion_varietal":"50% Cabernet Sauvignon / 50% Malbec", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"caja x6 botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino": "reserva"
+        },
+        
+        { 
+            "name":"TRIVENTO RESERVA WHITE MALBEC",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos. Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo. La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"tiene un Color Tonos acerados con reflejos de salmón pálido con Aroma Notas frutales, especialmente frutos rojos con un perfil que recuerda a manzana verde en Boca tiene una Entrada fresca, estructura mediana, fácil de tomar. De taninos dulces y final largo.",
+                "categoria":"blanco",
+                "varietal":"malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"caja x6 botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"reserva"
+        },
+        {
+            "name":"TRIVENTO RESERVA MALBEC",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos. Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo. La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Color Brillante rojo intenso con matices violáceos y azulados un Aroma Cerezas, frutillas y frambuesas con notas de vainilla y coco en Boca Equilibrado, posee taninos dulces, bebibles y final aterciopelado.",
+                "categoria":"Tinto",
+                "varietal":"malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"caja x6 botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"reserva"
+        },
+        {
+            "name":"Trivento Eolo Malbec",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos. Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo. La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Rojo violáceo profundo con reflejos azulados Combinación de frutas rojas como frambuesa y cerezas. Finas notas florales como violetas. Elegante, complejo e intenso Gran estructura, taninos sedosos y fluidos. Final de boca persistente y largo.",
+                "categoria":"Tinto",
+                "varietal":"malbec",
+                "composicion_varietal":"100% Malbec", 
+                "añejamiento":"18 meses ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":" 1 botella individual",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"eolo"
+        },
+        {
+            "name":"Trivento Golden Reserve Cabernet Franc",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Rojo intenso con tonalidades granate, un aroma Intenso y especiado, mix de pimientas Taninos densos y texturados . Persistente en boca.",
+                "categoria":"Tinto",
+                "varietal":"cabernet franc",
+                "composicion_varietal":"100% cabernet franc", 
+                "añejamiento":"16 meses ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"Caja x6 botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"golden reserve"
+        },
+        {
+            "name":"TRIVENTO RESERVA ROSE MALBEC",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Color Rosa pálido con un Aroma Profundos aromas a rosas, frutas rojas ácidas y granadina. en Boca Entrada dulce y persistencia marcada. Acidez envolvente. Fresco y limpio..",
+                "categoria":"rosado",
+                "varietal":"malbec rose",
+                "composicion_varietal":"85% Malbec / 15% Pinot Noir.", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"x6 caja",
+                "temperatura_de_servicio":"",
+                "linea_del_vino":"reserva"
+        },
+        {
+            "name":"TRIVENTO RESERVA CHARDONNAY",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Color Amarillo verdoso con reflejos oliva con un Aroma Rico en frutas maduras como manzana verde y durazno blanco con suaves notas a damascos. Balanceado con toques de coco y chocolate blanco en Boca una Acidez mineral, fresco y untuoso en boca con buena concentración. Final que recuerda a sus aromas de nariz..",
+                "categoria":"BLANCO",
+                "varietal":"chardonnay",
+                "composicion_varietal":"100% chardonnay", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"caja x 6botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"reserva"
+        },
+        {
+            "name":"TRIVENTO RESERVA CABERNET SAUVIGNON",
+            "bodega":{
+                "name": "TRIVENTO",
+                "image":"",
+                "descripcion_bodega": " “Líder en iniciativas sostenibles, en 2013 la compañía puso en marcha un proyecto transversal a la operación de la compañía que incluyó a lFilial argentina de Viña Concha y Toro Family of Wineries, Bodegas Trivento es símbolo de los vinos de alta gama de la Argentina. Desde sus inicios, en 1996, forjó un portafolio exclusivo que preservan el carácter de los terruños mendocinos y desafían los humores de los vientos.Sus 417 colaboradores hacen de la Casa de los Vientos una de las principales bodegas elaboradoras y exportadoras de Argentina. Desde 2020, Trivento es la marca argentina de vinos número 1 en ventas en el mundo.La compañía posee 1650 hectáreas de viñedos ubicados principalmente en las regiones de Maipú, Luján de Cuyo y Valle de Uco - Mendoza, con una amplia gama de topografías y microclimas.a Sustentabilidad en el centro de su modelo de negocio. A partir de allí, adhirió al Pacto Global de las Naciones Unidas y reporta metas para los Objetivos de Desarrollo Sostenible (ODS) agenda 2030."
+         },
+                "imagen":"",
+                "descripcion":"Un color Profundo rojo granate con Aroma Mermelada de cereza y pimiento rojo que combinan con notas de chocolate y café y Boca Gran personalidad, ofrece taninos robustos y dulces.",
+                "categoria":"Tinto",
+                "varietal":"Cabernet sauvignon",
+                "composicion_varietal":"100% cabernet sauvignon", 
+                "añejamiento":"6 meses en barrica ",
+                "region":"Mendoza, Argentina",
+                "contenido": "750ml",
+                "se_vende_por":"caja x6 botellas",
+                "temperatura_de_servicio":"16-18°C",
+                "linea_del_vino":"reserva"
+        }
+      ]
