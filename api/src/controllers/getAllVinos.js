@@ -5,7 +5,7 @@ const { Vino } = require("../db");
     try {
       let dbRestaurants = await Vino.findAll({
         where: {
-            active: true
+            active: true 
           }
       });
   
@@ -18,17 +18,9 @@ const { Vino } = require("../db");
   
     } catch (err) {
       console.log(err)
+      console.log('aaaaaaaaaaaaaaa error')
       next(err)
     }
   }
-
-  const getAllVinos2 = async () => {
-
-    const vino = await Vino.findAll({
-      where: {active: true},
-    });
-    return vino
-  };
-
   
   module.exports = getAllVinos;

@@ -19,7 +19,7 @@ module.exports = (sequelize) => {
       type: DataTypes.JSON,
       allowNull: false,
     },
-    image: {
+    imagen: {
       type: DataTypes.STRING(10000),
       defaultValue:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgpsvinos.com%2F2022%2F05%2F23%2Frutini-presento-su-linea-dominio-en-una-charla-exclusiva-organizada-por-winexperts%2F&psig=AOvVaw2Pln9kPECFg9iZKPH1zFhb&ust=1691727159814000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjhzfOc0YADFQAAAAAdAAAAABAF",
       allowNull: false,
@@ -60,7 +60,7 @@ module.exports = (sequelize) => {
       defaultValue:"Caja x6 botellas",
       allowNull: false,
     },
-    temperatura_del_servicio: {
+    temperatura_de_servicio: {
       type: DataTypes.STRING,
       defaultValue:"Indistinto",
       allowNull: false,
