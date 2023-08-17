@@ -31,10 +31,7 @@ router.get('/vinos', async(req, res, next)=>{
 })
 
 router.get('/wines/:id', async (req, res) => {
-
     const { id } = req.params;
-    // console.log('vinoID', id);
-    
     try {
         const vino = await getVinoByID(id)
         res.status(200).json(vino);
