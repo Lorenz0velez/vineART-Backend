@@ -65,9 +65,9 @@ router.post('/create',async(req, res, next)=>{
          if(!varietal) return res.status(404).send({msg: 'Required VARIETAL is missing'})
          if(!composicion_varietal) return res.status(404).send({msg: 'Required COMPOSICION VARIETAL is missing'})
          if(!añejamiento) return res.status(404).send({msg: 'Required AÑEJAMIENTO is missing'})
-         if(!region) return res.status(404).send({msg: 'Required REGION is missing'})
-         if(!contenido) return res.status(404).send({msg: 'Required CONTENIDO is missing'})
-         if(!se_vende_por) return res.status(404).send({msg: 'Required SE VENDE POR is missing'})
+        //  if(!region) return res.status(404).send({msg: 'Required REGION is missing'})
+        //  if(!contenido) return res.status(404).send({msg: 'Required CONTENIDO is missing'})
+        //  if(!se_vende_por) return res.status(404).send({msg: 'Required SE VENDE POR is missing'})
          if(!temperatura_de_servicio) return res.status(404).send({msg: 'Required TEMPERATURA DE SERVICIO is missing'})
          if(!linea_del_vino) return res.status(404).send({msg: 'Required LINEA DEL VINO is missing'})
 
