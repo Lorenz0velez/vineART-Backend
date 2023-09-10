@@ -74,6 +74,17 @@ module.exports = (sequelize) => {
       allowNull: false,
       defaultValue:true
     },
+    stock:{
+      type:DataTypes.BOOLEAN,
+      allowNull:false,
+      defaultValue:true
+    },
+    precio_por_caja:{
+      type:DataTypes.FLOAT,
+      allowNull:false,
+      defaultValue:'18.000'
+    }
+    
 
   },{timestamps:false});
 };
